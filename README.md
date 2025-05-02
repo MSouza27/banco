@@ -1,4 +1,4 @@
-````markdown
+````
 # 💸 Banco - Sistema de Transferências Bancárias
 
 Este projeto é uma API REST desenvolvida com Spring Boot que simula operações bancárias simples, como transferências entre contas, registro de saldo e filtros por intervalo de valores.
